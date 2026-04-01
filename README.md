@@ -4,6 +4,9 @@ Appium으로 자동화를 구축하기 위해 AI를 사용하여 AOS/iOS 앱을 
 Jetpack Compose로 개발된 안드로이드 룰렛 앱의 핵심 기능과 예외 상황(Edge Cases)을 검증하기 위한 **Appium UI 자동화 테스트 프로젝트**입니다. 
 유지보수성과 확장성을 고려하여 **POM (Page Object Model)** 디자인 패턴을 적용했습니다.
 
+## Target App
+[TrionRoulette for Android](https://github.com/seungju-oh/TrionRouletteAOS)
+
 ## Tech Stack
 - **Language:** Python 3.x
 - **Testing Framework:** Pytest
