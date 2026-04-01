@@ -1,0 +1,12 @@
+# Python 관련 임시/가상환경 파일 제외
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE 설정 파일 제외
+.idea/
+.vscode/
+
+# Mac 사용자일 경우 생기는 숨김 파일 제외
+.DS_Store
