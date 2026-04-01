@@ -1,8 +1,3 @@
-* 프로젝트 소개: Appium으로 자동화를 구축하기 위해 AI를 사용하여 AOS/iOS 앱을 만든 뒤 AI를 사용하여 구축 한 Appium 자동화 프로젝트.
-* 테스트 시나리오: [Roulette_Testsuit](https://docs.google.com/spreadsheets/d/e/2PACX-1vQhfKgoulnXGsKzU27oW8cVXLnvv9xbmZtBpArXROjRXamM5n7OGvxu8kdv9H1nkJhDt1kyCU9LNZa5/pubhtml)
-* 기술 스택:
-* 실행 방법: `python -m pytest tests/`
-
 # Android Roulette App - QA UI Automation Test
 
 Appium으로 자동화를 구축하기 위해 AI를 사용하여 AOS/iOS 앱을 만든 뒤 AI를 사용하여 구축 한 프로젝트입니다.
